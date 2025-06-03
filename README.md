@@ -5,7 +5,7 @@ I'm a passionate **Backend Developer** focused on building scalable and secure *
 - 🔭 Currently building: E-commerce Backend API App  
 - 🌱 Learning: Advanced Node.js, PostgreSQL  
 - 👀 Interests: Backend Engineering, APIs, System Design  
-- 📄 [View My CV](https://github.com/user-attachments/files/20573135/Ahmed.s_CV.pdf)
+- 📄 [View My CV](https://github.com/AhmedO-Saliem/blob/main/Ahmed.s_CV.pdf)
 
 ---
 
